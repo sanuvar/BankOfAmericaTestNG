@@ -7,12 +7,9 @@ public class BankTest {
 @Test
 public void AddAccount() {
 	
-	System.out.println("This is a Testcase");
-	 
+	System.out.println("this is a testcase");
+	
 	
 }
-	
-	
-	
 
 }
